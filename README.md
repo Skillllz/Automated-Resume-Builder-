@@ -88,4 +88,5 @@ git push origin feature-branch
 📬 Contact
 
 For any inquiries or feature requests, reach out to:
-📧 Email: hurshkarnik5603@gmail.com🔗 GitHub: hursh05
+📧 Email: pakhareshubham04@gmail.com🔗 G
+itHub: Skilllz
